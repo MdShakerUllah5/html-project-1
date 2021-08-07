@@ -1,0 +1,48 @@
+h1{
+    font-size: 50px;
+    color: aqua;
+}
+.half-width{
+    width: 40%;
+  
+    margin: 5%;
+}
+.who{
+    display: flex;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    border-radius: 7%;
+    color: white;
+}
+H4{
+    text-align: center;
+}
+.blog img{
+    width: 30%;
+}
+.me{
+    text-align: center;
+}
+
+section{
+    height: 300px;
+    padding-bottom: 150px;
+}
+.shaker img{
+    width: 20%;
+}
+.shaker{
+    display: flex;
+}
+.you{
+    box-shadow: 10px 10px 10px 10px wheat;
+    border-radius: 5%;
+    background-color: white;
+    margin-left: 5%;
+}
